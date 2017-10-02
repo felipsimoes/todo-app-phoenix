@@ -1,10 +1,10 @@
 # Todo
 
-- Create a task
-- List all the tasks
-- Mark a task as complete
-- Mark a task as incomplete
-- Delete a task
+- [x] Create a task
+- [x] List all the tasks
+- [ ] Mark a task as complete
+- [ ] Mark a task as incomplete
+- [x] Delete a task
 
 To start your Phoenix server:
 
